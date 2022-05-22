@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/solereum/static/css/main.2627368d.css",
-    "main.js": "/solereum/static/js/main.319c55e7.js",
+    "main.js": "/solereum/static/js/main.0c79399a.js",
     "static/media/ethereum_animation_H.265.mov": "/solereum/static/media/ethereum_animation_H.265.fc7a834450788a7d9448.mov",
     "static/media/ethereum_animation_VP9.webm": "/solereum/static/media/ethereum_animation_VP9.3b29c070993c6ba2ee00.webm",
     "static/media/blog01.png": "/solereum/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -16,10 +16,10 @@
     "static/media/solereum_logo_left_turquoise.svg": "/solereum/static/media/solereum_logo_left_turquoise.e87dd30eef6eb4fed1975034c55bbd94.svg",
     "index.html": "/solereum/index.html",
     "main.2627368d.css.map": "/solereum/static/css/main.2627368d.css.map",
-    "main.319c55e7.js.map": "/solereum/static/js/main.319c55e7.js.map"
+    "main.0c79399a.js.map": "/solereum/static/js/main.0c79399a.js.map"
   },
   "entrypoints": [
     "static/css/main.2627368d.css",
-    "static/js/main.319c55e7.js"
+    "static/js/main.0c79399a.js"
   ]
 }
