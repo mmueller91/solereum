@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/solereum/static/css/main.2627368d.css",
+    "main.js": "/solereum/static/js/main.319c55e7.js",
+    "static/media/ethereum_animation_H.265.mov": "/solereum/static/media/ethereum_animation_H.265.fc7a834450788a7d9448.mov",
+    "static/media/ethereum_animation_VP9.webm": "/solereum/static/media/ethereum_animation_VP9.3b29c070993c6ba2ee00.webm",
+    "static/media/blog01.png": "/solereum/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/solereum/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/solereum/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/solereum/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/solereum/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/crypto_punk.png": "/solereum/static/media/crypto_punk.1d0b28dde2a51b18f0e9.png",
+    "static/media/laura_luisa_reinhold.png": "/solereum/static/media/laura_luisa_reinhold.3ff4151a05851b72decf.png",
+    "static/media/manuel_mueller.jpg": "/solereum/static/media/manuel_mueller.560e3f385206f3757ead.jpg",
+    "static/media/solereum_logo_top_turquoise.svg": "/solereum/static/media/solereum_logo_top_turquoise.a9d29fd42dcce31d80bb0e52732c9e8b.svg",
+    "static/media/solereum_logo_left_turquoise.svg": "/solereum/static/media/solereum_logo_left_turquoise.e87dd30eef6eb4fed1975034c55bbd94.svg",
+    "index.html": "/solereum/index.html",
+    "main.2627368d.css.map": "/solereum/static/css/main.2627368d.css.map",
+    "main.319c55e7.js.map": "/solereum/static/js/main.319c55e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2627368d.css",
+    "static/js/main.319c55e7.js"
+  ]
+}
